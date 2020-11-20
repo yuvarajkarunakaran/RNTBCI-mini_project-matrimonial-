@@ -5,7 +5,7 @@ body {
 }
 .navbar {
     background: #6ab446;
-    font-family: Pacifico;
+    font-family:"Times New Roman";
 }
 
 .nav-link, .navbar-brand {
@@ -52,26 +52,10 @@ body {
 .profile-head h5{
     color: #333;
 }
-.profile-head h6{
+.profile-head h3{
     color: #0062cc;
 }
 
-.proile-rating span{
-    color: #495057;
-    font-size: 15px;
-    font-weight: 600;
-}
-.profile-head .nav-tabs{
-    margin-bottom:5%;
-}
-.profile-head .nav-tabs .nav-link{
-    font-weight:600;
-    border: none;
-}
-.profile-head .nav-tabs .nav-link.active{
-    border: none;
-    border-bottom:2px solid #0062cc;
-}
 .profile-work{
     padding: 14%;
     margin-top: -15%;
@@ -102,7 +86,7 @@ body {
     background-color: #222;
     color: #ccc;
     padding: 60px 0 30px;
-    font-family: Dancing Script;
+    font-family:"Times New Roman";
 }
 
 .footer-copyright {
